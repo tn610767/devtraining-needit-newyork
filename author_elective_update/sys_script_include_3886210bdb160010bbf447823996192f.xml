@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name/>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name/>
+        <script/>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 22:29:26</sys_created_on>
+        <sys_id>3886210bdb160010bbf447823996192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_3886210bdb160010bbf447823996192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 22:29:26</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c067fd7ddb457b4442b321c4059619aa</instance_id>
+        <instance_name>dev83836</instance_name>
+        <name>sys_script_include_3886210bdb160010bbf447823996192f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name/><caller_access/><client_callable>false</client_callable><description/><name/><script/><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-16 22:29:26</sys_created_on><sys_id>3886210bdb160010bbf447823996192f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy>read</sys_policy><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_include_3886210bdb160010bbf447823996192f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-16 22:29:26</sys_updated_on></sys_script_include></record_update>]]></payload>
+        <payload_hash>-820892673</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>deeb11b2db120010bbf447823996197f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 22:29:26</sys_created_on>
+        <sys_id>a18669c7db160010bbf44782399619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fb079bf8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 22:29:26</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>e98669c735160010ae634a5ef893a4e3</update_guid>
+        <update_guid_history>e98669c735160010ae634a5ef893a4e3:-820892673</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 22:29:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>817dd1f42d674ce29288e27fe48911e4</sys_id>
+        <sys_metadata>3886210bdb160010bbf447823996192f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_include_3886210bdb160010bbf447823996192f</sys_update_name>
+        <sys_update_version display_value="sys_script_include_3886210bdb160010bbf447823996192f">a18669c7db160010bbf44782399619e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 22:29:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
